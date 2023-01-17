@@ -5,3 +5,5 @@ Technology used -
 2. CSS
 
 ![Screenshot](./Screenshot%202023-01-17%20at%2010.55.21%20PM.png)
+
+[live-link](https://dashing-gecko-179dc7.netlify.app/)
